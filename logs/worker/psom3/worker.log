@@ -1,0 +1,81 @@
+warning: X11 DISPLAY environment variable not set
+warning: function /opt/octave_packages/statistics-1.2.0/fstat.m shadows a core library function
+Octave version 3.6.2
+Minc-tool-kit version 0.3.18-20130531
+NIAK quarantine /home/benhajal/github_repos/niak/commands/misc/niak_gb_vars.m
+warning: X11 DISPLAY environment variable not set
+warning: function /opt/octave_packages/statistics-1.2.0/fstat.m shadows a core library function
+Deleting file '/home/benhajal/database/MAVEN/qc_report/logs/worker/psom3/new_jobs.mat' 
+Deleting file '/home/benhajal/database/MAVEN/qc_report/logs/worker/psom3/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_A1522
+Started on 05-Jul-2016 11:58:40
+User: benhajal
+host : cs149
+system : unix
+******************************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /home/benhajal/database/MAVEN/qc_report/summary_A1522_anat.jpg was successfully generated!
+The output file or directory /home/benhajal/database/MAVEN/qc_report/summary_A1522_func.jpg was successfully generated!
+The output file or directory /home/benhajal/database/MAVEN/qc_report/report_coregister_A1522.html was successfully generated!
+
+*********************************************************
+05-Jul-2016 11:59:19 : The job was successfully completed
+Total time used to process the job : 39.08 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : report_A1587
+Started on 05-Jul-2016 11:59:20
+User: benhajal
+host : cs149
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /home/benhajal/database/MAVEN/qc_report/summary_A1587_anat.jpg was successfully generated!
+The output file or directory /home/benhajal/database/MAVEN/qc_report/summary_A1587_func.jpg was successfully generated!
+The output file or directory /home/benhajal/database/MAVEN/qc_report/report_coregister_A1587.html was successfully generated!
+
+*********************************************************
+05-Jul-2016 12:00:00 : The job was successfully completed
+Total time used to process the job : 40.60 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : report_A1642
+Started on 05-Jul-2016 12:00:01
+User: benhajal
+host : cs149
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /home/benhajal/database/MAVEN/qc_report/summary_A1642_anat.jpg was successfully generated!
+The output file or directory /home/benhajal/database/MAVEN/qc_report/summary_A1642_func.jpg was successfully generated!
+The output file or directory /home/benhajal/database/MAVEN/qc_report/report_coregister_A1642.html was successfully generated!
+
+*********************************************************
+05-Jul-2016 12:00:40 : The job was successfully completed
+Total time used to process the job : 39.21 sec.
+*********************************************************
+05-Jul-2016 12:00:41 - The manager has requested to end the work asap!
+05-Jul-2016 12:00:41 - The manager has requested to end the work asap!
+
+attempting to save variables to `octave-core'...
+save to `octave-core' complete

@@ -1,0 +1,62 @@
+warning: X11 DISPLAY environment variable not set
+warning: function /opt/octave_packages/statistics-1.2.0/fstat.m shadows a core library function
+Octave version 3.6.2
+Minc-tool-kit version 0.3.18-20130531
+NIAK quarantine /home/benhajal/github_repos/niak/commands/misc/niak_gb_vars.m
+warning: X11 DISPLAY environment variable not set
+warning: function /opt/octave_packages/statistics-1.2.0/fstat.m shadows a core library function
+Deleting file '/home/benhajal/database/MAVEN/qc_report/logs/worker/psom8/new_jobs.mat' 
+Deleting file '/home/benhajal/database/MAVEN/qc_report/logs/worker/psom8/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_A1522
+Started on 05-Jul-2016 11:59:14
+User: benhajal
+host : cs149
+system : unix
+******************************
+
+
+The output file or directory /home/benhajal/database/MAVEN/qc_report/wrapper_A1522.html was successfully generated!
+
+*********************************************************
+05-Jul-2016 11:59:14 : The job was successfully completed
+Total time used to process the job : 0.20 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_A1611
+Started on 05-Jul-2016 11:59:15
+User: benhajal
+host : cs149
+system : unix
+******************************
+
+
+The output file or directory /home/benhajal/database/MAVEN/qc_report/wrapper_A1611.html was successfully generated!
+
+*********************************************************
+05-Jul-2016 11:59:15 : The job was successfully completed
+Total time used to process the job : 0.21 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_B1658
+Started on 05-Jul-2016 11:59:17
+User: benhajal
+host : cs149
+system : unix
+******************************
+
+
+The output file or directory /home/benhajal/database/MAVEN/qc_report/wrapper_B1658.html was successfully generated!
+
+*********************************************************
+05-Jul-2016 11:59:17 : The job was successfully completed
+Total time used to process the job : 0.19 sec.
+*********************************************************
+05-Jul-2016 11:59:18 - The manager has requested to end the work asap!
+05-Jul-2016 11:59:18 - The manager has requested to end the work asap!
+
+attempting to save variables to `octave-core'...
+save to `octave-core' complete

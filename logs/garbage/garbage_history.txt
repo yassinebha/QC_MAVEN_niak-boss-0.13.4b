@@ -1,0 +1,55 @@
+warning: X11 DISPLAY environment variable not set
+warning: function /opt/octave_packages/statistics-1.2.0/fstat.m shadows a core library function
+Octave version 3.6.2
+Minc-tool-kit version 0.3.18-20130531
+NIAK quarantine /home/benhajal/github_repos/niak/commands/misc/niak_gb_vars.m
+warning: X11 DISPLAY environment variable not set
+warning: function /opt/octave_packages/statistics-1.2.0/fstat.m shadows a core library function
+
+.
+Collecting logs of job index_html
+Collecting logs of job wrapper_A1587
+Collecting logs of job init_report
+Collecting logs of job report_A1470
+Collecting logs of job report_A1522
+Collecting logs of job wrapper_A1470
+Collecting logs of job wrapper_A1522
+Collecting logs of job wrapper_A1522b
+Collecting logs of job wrapper_A1568
+Collecting logs of job wrapper_A1611
+Collecting logs of job wrapper_A1623
+Collecting logs of job wrapper_A1642
+Collecting logs of job wrapper_A1731
+Collecting logs of job wrapper_B1658
+Collecting logs of job wrapper_B1687
+Collecting logs of job wrapper_C2063
+Collecting logs of job wrapper_C2065
+Collecting logs of job wrapper_D2098
+Collecting logs of job wrapper_D2228
+Collecting logs of job wrapper_D2354
+Collecting logs of job wrapper_D2354b
+Collecting logs of job wrapper_D2358
+Collecting logs of job wrapper_D2422
+Collecting logs of job wrapper_D2443
+Collecting logs of job report_A1522b
+Collecting logs of job report_A1731
+Collecting logs of job report_D2228
+Collecting logs of job report_D2358
+Collecting logs of job report_B1658
+Collecting logs of job report_A1568
+Collecting logs of job report_A1587
+Collecting logs of job report_A1611
+Collecting logs of job report_B1687
+.
+Collecting logs of job report_D2354
+Collecting logs of job summary_template
+Collecting logs of job report_C2063
+Collecting logs of job report_D2422
+Collecting logs of job report_A1623
+Collecting logs of job report_A1642
+Collecting logs of job report_C2065
+Collecting logs of job report_D2354b
+Collecting logs of job report_D2098
+Collecting logs of job report_D2443
+Pipeline exited
+

@@ -1,0 +1,12 @@
+warning: X11 DISPLAY environment variable not set
+warning: function /opt/octave_packages/statistics-1.2.0/fstat.m shadows a core library function
+Octave version 3.6.2
+Minc-tool-kit version 0.3.18-20130531
+NIAK quarantine /home/benhajal/github_repos/niak/commands/misc/niak_gb_vars.m
+warning: X11 DISPLAY environment variable not set
+warning: function /opt/octave_packages/statistics-1.2.0/fstat.m shadows a core library function
+05-Jul-2016 11:59:29 - The manager has requested to end the work asap!
+05-Jul-2016 11:59:29 - The manager has requested to end the work asap!
+
+attempting to save variables to `octave-core'...
+save to `octave-core' complete

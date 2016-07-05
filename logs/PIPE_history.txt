@@ -1,0 +1,134 @@
+warning: X11 DISPLAY environment variable not set
+warning: function /opt/octave_packages/statistics-1.2.0/fstat.m shadows a core library function
+Octave version 3.6.2
+Minc-tool-kit version 0.3.18-20130531
+NIAK quarantine /home/benhajal/github_repos/niak/commands/misc/niak_gb_vars.m
+
+Pipeline started on 05-Jul-2016 11:58:30
+user: benhajal, host: ip05, system: unix
+****************************************
+warning: X11 DISPLAY environment variable not set
+warning: function /opt/octave_packages/statistics-1.2.0/fstat.m shadows a core library function
+05-Jul-2016 11:58:38 summary_template submitted  (1 run / 0 fail / 0 done / 42 left)
+05-Jul-2016 11:58:38 report_A1470     submitted  (2 run / 0 fail / 0 done / 41 left)
+05-Jul-2016 11:58:38 report_A1522     submitted  (3 run / 0 fail / 0 done / 40 left)
+05-Jul-2016 11:58:38 report_A1522b    submitted  (4 run / 0 fail / 0 done / 39 left)
+05-Jul-2016 11:58:38 report_A1568     submitted  (5 run / 0 fail / 0 done / 38 left)
+05-Jul-2016 11:58:38 report_A1587     submitted  (6 run / 0 fail / 0 done / 37 left)
+05-Jul-2016 11:58:38 report_A1611     submitted  (7 run / 0 fail / 0 done / 36 left)
+05-Jul-2016 11:58:38 report_A1623     submitted  (8 run / 0 fail / 0 done / 35 left)
+05-Jul-2016 11:58:38 report_A1642     submitted  (9 run / 0 fail / 0 done / 34 left)
+05-Jul-2016 11:59:04 report_A1731     submitted  (10 run / 0 fail / 0 done / 33 left)
+05-Jul-2016 11:59:04 report_B1658     submitted  (11 run / 0 fail / 0 done / 32 left)
+05-Jul-2016 11:59:04 report_B1687     submitted  (12 run / 0 fail / 0 done / 31 left)
+05-Jul-2016 11:59:04 report_C2063     submitted  (13 run / 0 fail / 0 done / 30 left)
+05-Jul-2016 11:59:04 report_C2065     submitted  (14 run / 0 fail / 0 done / 29 left)
+05-Jul-2016 11:59:04 report_D2098     submitted  (15 run / 0 fail / 0 done / 28 left)
+05-Jul-2016 11:59:08 report_D2228     submitted  (16 run / 0 fail / 0 done / 27 left)
+05-Jul-2016 11:59:08 report_D2354     submitted  (17 run / 0 fail / 0 done / 26 left)
+05-Jul-2016 11:59:08 report_D2354b    submitted  (18 run / 0 fail / 0 done / 25 left)
+05-Jul-2016 11:59:09 report_D2358     submitted  (19 run / 0 fail / 0 done / 24 left)
+05-Jul-2016 11:59:09 report_D2422     submitted  (20 run / 0 fail / 0 done / 23 left)
+05-Jul-2016 11:59:09 report_D2443     submitted  (21 run / 0 fail / 0 done / 22 left)
+05-Jul-2016 11:59:10 init_report      submitted  (22 run / 0 fail / 0 done / 21 left)
+05-Jul-2016 11:59:10 index_html       submitted  (23 run / 0 fail / 0 done / 20 left)
+05-Jul-2016 11:59:10 wrapper_A1470    submitted  (24 run / 0 fail / 0 done / 19 left)
+05-Jul-2016 11:59:11 wrapper_A1522    submitted  (25 run / 0 fail / 0 done / 18 left)
+05-Jul-2016 11:59:11 wrapper_A1522b   submitted  (26 run / 0 fail / 0 done / 17 left)
+05-Jul-2016 11:59:11 wrapper_A1568    submitted  (27 run / 0 fail / 0 done / 16 left)
+05-Jul-2016 11:59:11 wrapper_A1587    submitted  (28 run / 0 fail / 0 done / 15 left)
+05-Jul-2016 11:59:11 wrapper_A1611    submitted  (29 run / 0 fail / 0 done / 14 left)
+05-Jul-2016 11:59:11 wrapper_A1623    submitted  (30 run / 0 fail / 0 done / 13 left)
+05-Jul-2016 11:59:11 wrapper_A1642    submitted  (31 run / 0 fail / 0 done / 12 left)
+05-Jul-2016 11:59:11 wrapper_A1731    submitted  (32 run / 0 fail / 0 done / 11 left)
+05-Jul-2016 11:59:11 wrapper_B1658    submitted  (33 run / 0 fail / 0 done / 10 left)
+05-Jul-2016 11:59:11 wrapper_B1687    submitted  (34 run / 0 fail / 0 done / 9 left)
+05-Jul-2016 11:59:11 wrapper_C2063    submitted  (35 run / 0 fail / 0 done / 8 left)
+05-Jul-2016 11:59:11 wrapper_C2065    submitted  (36 run / 0 fail / 0 done / 7 left)
+05-Jul-2016 11:59:13 wrapper_D2098    submitted  (37 run / 0 fail / 0 done / 6 left)
+05-Jul-2016 11:59:13 wrapper_D2228    submitted  (38 run / 0 fail / 0 done / 5 left)
+05-Jul-2016 11:59:13 wrapper_D2354    submitted  (39 run / 0 fail / 0 done / 4 left)
+05-Jul-2016 11:59:13 wrapper_D2354b   submitted  (40 run / 0 fail / 0 done / 3 left)
+05-Jul-2016 11:59:13 wrapper_D2358    submitted  (41 run / 0 fail / 0 done / 2 left)
+05-Jul-2016 11:59:13 wrapper_D2422    submitted  (42 run / 0 fail / 0 done / 1 left)
+05-Jul-2016 11:59:14 index_html       finished   (41 run / 0 fail / 1 done / 1 left)
+05-Jul-2016 11:59:14 wrapper_A1587    finished   (40 run / 0 fail / 2 done / 1 left)
+05-Jul-2016 11:59:14 wrapper_D2443    submitted  (41 run / 0 fail / 2 done / 0 left)
+05-Jul-2016 11:59:15 report_A1470     finished   (40 run / 0 fail / 3 done / 0 left)
+05-Jul-2016 11:59:15 wrapper_A1522    finished   (39 run / 0 fail / 4 done / 0 left)
+05-Jul-2016 11:59:15 Stopping idle worker 13 (not enough jobs left to do).
+05-Jul-2016 11:59:15 Stopping idle worker 20 (not enough jobs left to do).
+05-Jul-2016 11:59:15 wrapper_A1522b   finished   (38 run / 0 fail / 5 done / 0 left)
+05-Jul-2016 11:59:15 wrapper_A1568    finished   (37 run / 0 fail / 6 done / 0 left)
+05-Jul-2016 11:59:15 wrapper_A1731    finished   (36 run / 0 fail / 7 done / 0 left)
+05-Jul-2016 11:59:15 Stopping idle worker 14 (not enough jobs left to do).
+05-Jul-2016 11:59:16 wrapper_A1611    finished   (35 run / 0 fail / 8 done / 0 left)
+05-Jul-2016 11:59:16 Stopping idle worker 15 (not enough jobs left to do).
+05-Jul-2016 11:59:17 init_report      finished   (34 run / 0 fail / 9 done / 0 left)
+05-Jul-2016 11:59:17 wrapper_A1623    finished   (33 run / 0 fail / 10 done / 0 left)
+05-Jul-2016 11:59:17 wrapper_D2228    finished   (32 run / 0 fail / 11 done / 0 left)
+05-Jul-2016 11:59:17 Stopping idle worker 16 (not enough jobs left to do).
+05-Jul-2016 11:59:17 Stopping idle worker 21 (not enough jobs left to do).
+05-Jul-2016 11:59:18 wrapper_A1470    finished   (31 run / 0 fail / 12 done / 0 left)
+05-Jul-2016 11:59:18 wrapper_A1642    finished   (30 run / 0 fail / 13 done / 0 left)
+05-Jul-2016 11:59:18 wrapper_B1658    finished   (29 run / 0 fail / 14 done / 0 left)
+05-Jul-2016 11:59:18 wrapper_B1687    finished   (28 run / 0 fail / 15 done / 0 left)
+05-Jul-2016 11:59:18 wrapper_C2063    finished   (27 run / 0 fail / 16 done / 0 left)
+05-Jul-2016 11:59:18 wrapper_C2065    finished   (26 run / 0 fail / 17 done / 0 left)
+05-Jul-2016 11:59:18 wrapper_D2098    finished   (25 run / 0 fail / 18 done / 0 left)
+05-Jul-2016 11:59:18 wrapper_D2443    finished   (24 run / 0 fail / 19 done / 0 left)
+05-Jul-2016 11:59:18 Stopping idle worker 8 (not enough jobs left to do).
+05-Jul-2016 11:59:18 Stopping idle worker 9 (not enough jobs left to do).
+05-Jul-2016 11:59:18 Stopping idle worker 10 (not enough jobs left to do).
+05-Jul-2016 11:59:18 Stopping idle worker 11 (not enough jobs left to do).
+05-Jul-2016 11:59:18 Stopping idle worker 12 (not enough jobs left to do).
+05-Jul-2016 11:59:18 Stopping idle worker 18 (not enough jobs left to do).
+05-Jul-2016 11:59:19 wrapper_D2354b   finished   (23 run / 0 fail / 20 done / 0 left)
+05-Jul-2016 11:59:19 Stopping idle worker 22 (not enough jobs left to do).
+05-Jul-2016 11:59:19 report_A1522     finished   (22 run / 0 fail / 21 done / 0 left)
+05-Jul-2016 11:59:19 wrapper_D2354    finished   (21 run / 0 fail / 22 done / 0 left)
+05-Jul-2016 11:59:19 Stopping idle worker 23 (not enough jobs left to do).
+05-Jul-2016 11:59:20 wrapper_D2358    finished   (20 run / 0 fail / 23 done / 0 left)
+05-Jul-2016 11:59:20 wrapper_D2422    finished   (19 run / 0 fail / 24 done / 0 left)
+05-Jul-2016 11:59:20 Stopping idle worker 17 (not enough jobs left to do).
+05-Jul-2016 11:59:20 Stopping idle worker 19 (not enough jobs left to do).
+05-Jul-2016 11:59:20 Stopping idle worker 24 (not enough jobs left to do).
+05-Jul-2016 11:59:21 report_A1522b    finished   (18 run / 0 fail / 25 done / 0 left)
+05-Jul-2016 11:59:29 Stopping idle worker 25 (not enough jobs left to do).
+05-Jul-2016 11:59:29 Stopping idle worker 26 (not enough jobs left to do).
+05-Jul-2016 11:59:29 Stopping idle worker 27 (not enough jobs left to do).
+05-Jul-2016 11:59:29 Stopping idle worker 28 (not enough jobs left to do).
+05-Jul-2016 11:59:29 Stopping idle worker 29 (not enough jobs left to do).
+05-Jul-2016 11:59:29 Stopping idle worker 30 (not enough jobs left to do).
+05-Jul-2016 11:59:38 report_A1731     finished   (17 run / 0 fail / 26 done / 0 left)
+05-Jul-2016 11:59:47 report_D2228     finished   (16 run / 0 fail / 27 done / 0 left)
+05-Jul-2016 11:59:47 report_D2358     finished   (15 run / 0 fail / 28 done / 0 left)
+05-Jul-2016 11:59:52 report_B1658     finished   (14 run / 0 fail / 29 done / 0 left)
+.
+05-Jul-2016 12:00:01 report_A1568     finished   (13 run / 0 fail / 30 done / 0 left)
+05-Jul-2016 12:00:01 report_A1587     finished   (12 run / 0 fail / 31 done / 0 left)
+05-Jul-2016 12:00:01 report_A1611     finished   (11 run / 0 fail / 32 done / 0 left)
+05-Jul-2016 12:00:13 report_B1687     finished   (10 run / 0 fail / 33 done / 0 left)
+05-Jul-2016 12:00:20 report_D2354     finished   (9 run / 0 fail / 34 done / 0 left)
+05-Jul-2016 12:00:28 summary_template finished   (8 run / 0 fail / 35 done / 0 left)
+05-Jul-2016 12:00:28 Stopping idle worker 1 (not enough jobs left to do).
+05-Jul-2016 12:00:29 report_C2063     finished   (7 run / 0 fail / 36 done / 0 left)
+05-Jul-2016 12:00:29 report_D2422     finished   (6 run / 0 fail / 37 done / 0 left)
+05-Jul-2016 12:00:39 report_A1623     finished   (5 run / 0 fail / 38 done / 0 left)
+05-Jul-2016 12:00:39 Stopping idle worker 2 (not enough jobs left to do).
+05-Jul-2016 12:00:41 report_A1642     finished   (4 run / 0 fail / 39 done / 0 left)
+05-Jul-2016 12:00:41 Stopping idle worker 3 (not enough jobs left to do).
+05-Jul-2016 12:00:42 report_C2065     finished   (3 run / 0 fail / 40 done / 0 left)
+05-Jul-2016 12:00:42 Stopping idle worker 4 (not enough jobs left to do).
+05-Jul-2016 12:00:43 report_D2354b    finished   (2 run / 0 fail / 41 done / 0 left)
+05-Jul-2016 12:00:43 Stopping idle worker 6 (not enough jobs left to do).
+05-Jul-2016 12:00:50 report_D2098     finished   (1 run / 0 fail / 42 done / 0 left)
+05-Jul-2016 12:00:50 report_D2443     finished   (0 run / 0 fail / 43 done / 0 left)
+05-Jul-2016 12:00:50 Stopping idle worker 5 (not enough jobs left to do).
+05-Jul-2016 12:00:50 Stopping idle worker 7 (not enough jobs left to do).
+
+*******************************************
+Pipeline terminated on 05-Jul-2016 12:00:50
+All jobs have been successfully completed.
+
+
